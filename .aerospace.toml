@@ -2,7 +2,7 @@ enable-normalization-flatten-containers = false
 enable-normalization-opposite-orientation-for-nested-containers = false
 
 [mode.main.binding]
-alt-enter = 'exec-and-forget open -na /Applications/iTerm.app'
+alt-enter = 'exec-and-forget open -n /Applications/iTerm.app'
 
 alt-h = 'focus left'
 alt-j = 'focus down'
